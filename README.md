@@ -18,11 +18,6 @@ Test@123
 
 ---
 
-# 🖼 Store Screenshot
-
-![Pet Store Screenshot](images/store-preview.png)
-
----
 
 # 🏪 Store Information
 
@@ -190,6 +185,12 @@ The completed store includes:
 - 📱 Responsive UI using Dawn theme
 
 The store is **ready for review** and demonstrates the ability to set up and structure a **Shopify store similar to a real client project**.
+
+---
+
+# 🖼 Store Screenshot
+
+![Pet Store Screenshot](store-preview.png)
 
 ---
 
