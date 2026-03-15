@@ -20,7 +20,7 @@ Test@123
 
 # 🖼 Store Screenshot
 
-
+![Pet Store Screenshot](images/store-preview.png)
 
 ---
 
